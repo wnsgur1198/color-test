@@ -19,8 +19,12 @@ Programming Language: Python
 
 ## Release History
 
+* 1.1.0
+    * second commit
+    * 코드 수정
+
 * 1.0.0
-    * first
+    * first commit
     * 실습 완료
 
 ## Meta
